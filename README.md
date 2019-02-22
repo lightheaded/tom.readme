@@ -20,13 +20,13 @@ You can ping me 24/7. I like to respond quickly and don't ever mind weighing in 
 
 I like to discuss things. Unless it is a disproportionately heavy week, don't wait until 1-1 to sync quick things or brainstorm for ideas. I will tell you if we should leave it to next 1-1.
 
-My main hours are usually from around 9:30 to 17:30. I usually exercise before work and have errands to run right after work. Often I sprinkle some of the work over the evening hours as I often get bursts of inspiration in the evenings.
+My main hours are usually from around 9 to 5. I usually exercise before work and have errands to run right after work. Often I sprinkle some of the work over the evening hours as I often get bursts of inspiration in the evenings.
 
 I tend to work a bit on weekends. **I do not expect that you work on weekends or off-hours**, unless it is urgent or you are on call, of course. If you feel that you **are forced or have** to work outside of normal hours, let's talk and find out the reason. This should not be happening. If you feel like you want to do it, I hold no gripe against you.
 
 I sometimes go out of office for half a day to focus on one particular thing without interruption. Initially writing this README, for example. I am off the grid at that time.
 
-My calendar is sacred and I don't use it as a task list, so it actually reflects my availability most of the times. If my time slot is free, you can book it. 1-1 slots can usually be moved.
+My calendar is sacred and I don't use it as a task list, so it actually reflects my availability most of the times. If my time slot is free, you can book it without asking. It's good to let me know if the meeting is not straightforward though. 1-1 slots can usually be moved.
 
 ## Expectations of you
 
@@ -52,7 +52,7 @@ The goal-setting does not stop here. Once a month  we discuss your progress, rel
 
 TL;DR: I can take it. And it will make it better for me and for you.
 
-I strongly believe in that people always have a reason for saying things they say. Hence I try to be ultra-rational about feedback to me and my team. I urge you to give me constant feedback – about what works and what does not. 
+I strongly believe in that people always have a reason for saying things they say. Hence I try to be ultra-rational about feedback given to me and my team. I urge you to give me constant feedback – about what works and what does not. 
 
 Disagreement is feedback. Always let me know if you don't think I'm right.
 
@@ -60,7 +60,9 @@ While the Golden Rule [[1]](https://en.wikipedia.org/wiki/Golden_Rule) usually h
 
 ## Meeting Protocol
 
-I don't come to meetings where I am not needed. In case I don't understand my purpose in a meeting I will clarify it. Don't take it as a hostility or an attack on the you or the meeting, rather take it as a way to make our time more efficient. I will also excuse myself from a meeting once I (and others) feel that I'm not needed any more. I encourage you to do the same with my meetings.
+I don't come to meetings where I am not needed. In case I don't understand my purpose in a meeting I will clarify it. Don't take it as a hostility or an attack on the you or the meeting, rather take it as a way to make our time more efficient. I will also excuse myself from a meeting once I (and others) feel that I'm not needed any more instead of swiping my phone or switching to the laptop. I encourage you to do the same with my meetings.
+
+In some cases when I feel that I might be needed for different parts of the meeting, I'll grab my laptop, do my work and pitch in when necessary. But this is is rather an exception.
 
 ## Quirks
 
@@ -76,7 +78,7 @@ Very few things are more important than **talking to you if you want to discuss 
 
 **I am a sucker for time.** I try to be on time for agreements and meetings. Especially for those that I organise or am a key person for. When you are late for a meeting, you waste everyone's time and this causes unnecessary unhappiness. Please be on time.
 
-**Bad User Experience makes me itch.** When I see a badly designed process or interface, I physically itch all over. I'm that person who sends feedback to sites when it's not asked and eagerly anticipate the feedback surveys after going to the bank. I also like to think that stuff that I create is understandable and easy to use.
+**Bad User Experience makes me itch.** When I see a badly designed process or interface, I physically itch all over. I'm that person who sends feedback to sites when it's not asked and eagerly anticipates the feedback surveys after a visit to the bank. I also like to think that stuff that I create is understandable and easy to use.
 
 ## My interests
 
