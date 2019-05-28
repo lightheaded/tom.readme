@@ -12,7 +12,7 @@ I am here to make sure that our team is successful, people are happy and working
 
 We will keep each other informed on to go and focus on "beyond-the-moment" topics in recurring face-to-face meetings.
 
-We will have **one on one meetings** often. This is not the place for project updates and task reports, rather a place to have deeper discussions about more complex things/concepts and ways of doing things. I have created a private Slack channel for us. This channel is useful for capturing future topics for us to discuss. It's also handy to get a reminder on past topics we have tackled. When you think of a topic, dump it in there.
+We will have **one on one meetings** often. This is not the place for project updates and task reports, rather a place to have deeper discussions about more complex things/concepts and ways of doing things. I have created a private Slack channel for us. This channel is useful for capturing future topics for us to discuss. It's also handy to get a reminder on past topics we have tackled. When you think of a topic, dump it in there. Don't discuss day-to-day topics there, take them to private messages.
 
 We have a **team meeting** approximately once a quarter. This is the place to rant about things that bother you and need to be changed. It is also a place for figuring out solutions to those rants. Venting is good, but venting about same things for several months is not. So this is where we brainstorm possible ways to solve the problems – not the final solutions, but which steps need to be taken by whom in order for us not to rant about this particular thing next time.
 
@@ -37,6 +37,21 @@ My peace-time leadership philosophy involves a lot of freedom for you. This impl
 I believe that technical shortcomings are best seen and felt by the people who work with them day-to-day. So if you feel that something is not right and should be done differently, I am happy to help any way I can, but I will not take it on myself to fix it because it's not the focal point of my job. It's yours.
 
 So I will resort to guidance, sound boarding and often pitching in with the ideas, but rarely take the task away from you. The "war time" – when things are broken, something is burning or fundamentally broken and our customers are losing money – does not fall under this philosophy.
+
+### What should an engineer do?
+
+- Do keep your promises and our agreements. I expect that you will let me know if you won't be able to fulfil a promise. Silently failing a deadline won't do.
+- Do spend most of your time coding and developing.
+- Do spend time on personal growth, learning, experimenting; but also on technical project managemnt, analysing future endeavours, propose things that could be better.
+- Do speak your mind freely with me – daily struggles, compensation, stress, technical issues, emotions, personal growth, ranting, venting. Everything is fine.
+- Do discuss with me if you feel that somebody needs help, does not perform well. Don't keep your thoughts to yourself. I won't use that information to fire a person, but I will know how to approach his/her personal development a lot better.
+- Do speak your mind about things that should be changed. Expect me to ask what can be done about the issue. 
+- Do come out with a bare-bones idea of a solution if you come to me with a problem. Or clearly express that you do not know how to proceed with it.
+- Do speak your mind and be vocal in your opinions.
+
+### What should engineer not do?
+
+- Don't expect me to [take your monkey](https://hbr.org/1999/11/management-time-whos-got-the-monkey). I am more than willing to help out, help you find resource, priority, ideas. At the same time I strongly believe that the decisions should be bottom-up, so you as the expert to initiate change.
 
 ## Learning and development
 
@@ -84,7 +99,6 @@ Very few things are more important than **talking to you if you want to discuss 
 
 If you want to talk about something outside of work, feel free to approach me. Here are a few conversation starters.
 
-
 **I shoot RAW.** But also MP4. I like having nice pictures and videos of my vacations, hikes, random moments in life. Hence I have a Sony A6300 always in my bag and an armada of lenses, tripods, flashes, stabilisers and other gear for all possible situations.
 
 **I like experimenting in the kitchen.** Cooking my own delishes is a great way to let the brain rest. And there's a nice reward in the end.
@@ -96,6 +110,8 @@ If you want to talk about something outside of work, feel free to approach me. H
 **My dad was an electrics engineer.** This appears to be genetic, because I am drawn to putting together drones, soldering together crazy things using microcontrollers, Raspberry Pis or car parts.
 
 **I like hiking.** My joints don't, but I still take them out on the trails at least once or twice a month. I can never have enough hiking gear. Spending time in nature brings clarity to your mind like nothing else.
+
+**I am learning the ropes of being a captain of inland vessels.** It's a vocational education where you get to be a captain of any inlands vessel, large or small. I like learning how things work and ships seemed like a logical step after learning to drive and fly.
 
 ## Disclaimer
 
