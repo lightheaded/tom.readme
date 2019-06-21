@@ -4,19 +4,23 @@ This documentation on myself is meant to make it easier for you to understand ho
 
 This is written from me, an Engineering Team Lead to you, an Engineer in my team.
 
+## Who am I?
+
+I am an Engineering Team Lead at Fortumo. I am responsible for people and processes of four engineering teams: Money & Data, Payment Products, Front End and User Experience.
+
 ## My purpose
 
-I am here to make sure that our team is successful, people are happy and working on things that are most important to help our customers and colleagues.
+I am here to make sure that our team is successful, people are happy and together with corresponding Product Owners we make sure we work on most important things to help our customers and colleagues achieve their goals.
 
-## Our Average Week
+## How does working with me look like?
 
-We will keep each other informed on to go and focus on "beyond-the-moment" topics in recurring face-to-face meetings.
+I believe in letting engineers do their thing. I also believe in the need to always aim to be better and constantly improve things. I expect you to learn and become better each day, month, week. I expect you to come to me if that isn't working out.
 
-We will have **one on one meetings** often. This is not the place for project updates and task reports, rather a place to have deeper discussions about more complex things/concepts and ways of doing things. I have created a private Slack channel for us. This channel is useful for capturing future topics for us to discuss. It's also handy to get a reminder on past topics we have tackled. When you think of a topic, dump it in there. Don't discuss day-to-day topics there, take them to private messages.
+One of the most important tools for an engineer is their **learning and development plan**. I would really like you to have one and I will help you make stuff that's written down there come true.
 
-We have a **team meeting** approximately once a quarter. This is the place to rant about things that bother you and need to be changed. It is also a place for figuring out solutions to those rants. Venting is good, but venting about same things for several months is not. So this is where we brainstorm possible ways to solve the problems – not the final solutions, but which steps need to be taken by whom in order for us not to rant about this particular thing next time.
+We will keep each other informed on the go and focus on "beyond-the-moment" topics in recurring face-to-face meetings. See 1-1s section below.
 
-You can ping me 24/7. I like to respond quickly and don't ever mind weighing in be it off-hours or not. I might not respond when I'm asleep though.
+You can ping me 24/7. I like to respond quickly and don't ever mind weighing in, be it off-hours or not. I might not respond when I'm asleep though.
 
 I like to discuss things. Unless it is a disproportionately heavy week, don't wait until 1-1 to sync quick things or brainstorm for ideas. I will tell you if we should leave it to next 1-1.
 
@@ -27,6 +31,14 @@ I tend to work a bit on weekends. **I do not expect that you work on weekends or
 I sometimes go out of office for half a day to focus on one particular thing without interruption. Initially writing this README, for example. I am off the grid at that time.
 
 My calendar is sacred and I don't use it as a task list, so it actually reflects my availability most of the times. If my time slot is free, you can book it without asking. It's good to let me know if the meeting is not straightforward though. 1-1 slots can usually be moved.
+
+## 1-1s
+
+We will have recurring **one on one meetings**. Here are my rules for 1-1s:
+- 1-1s are short, sweet and to the point. 
+- 1-1s are not the place for project updates and task reports, rather a place to have deeper discussions about more complex things/concepts and ways of doing things. 
+- I have created a private Slack channel for us. This channel is useful for capturing future topics for us to discuss. It's also handy to get a reminder on past topics we have tackled. When you think of a topic, dump it in there. Don't discuss day-to-day topics there, take them to private messages.
+- Come with an agenda. If you don't have an agenda, ping me in 1-1 slack channel and if I don't have topics either, we'll cancel it
 
 ## Expectations of you
 
