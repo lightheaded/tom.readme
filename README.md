@@ -10,7 +10,8 @@ I am an Engineering Team Lead at Fortumo. I am responsible for people and proces
 
 ## My purpose
 
-I am here to make sure that our team is successful, people are happy and together with corresponding Product Owners we make sure we work on most important things to help our customers and colleagues achieve their goals.
+I am here to make sure that our team is successful, people are happy and we work on most important things to help our customers and colleagues achieve their goals.
+I believe in bottom-up management and my primary desire is to help you achieve your goals. Your goals should be making the company more successful.
 
 ## How does working with me look like?
 
@@ -32,13 +33,7 @@ I sometimes go out of office for half a day to focus on one particular thing wit
 
 My calendar is sacred and I don't use it as a task list, so it actually reflects my availability most of the times. If my time slot is free, you can book it without asking. It's good to let me know if the meeting is not straightforward though. 1-1 slots can usually be moved.
 
-## 1-1s
-
-We will have recurring **one on one meetings**. Here are my rules for 1-1s:
-- 1-1s are short, sweet and to the point. 
-- 1-1s are not the place for project updates and task reports, rather a place to have deeper discussions about more complex things/concepts and ways of doing things. 
-- I have created a private Slack channel for us. This channel is useful for capturing future topics for us to discuss. It's also handy to get a reminder on past topics we have tackled. When you think of a topic, dump it in there. Don't discuss day-to-day topics there, take them to private messages.
-- Come with an agenda. If you don't have an agenda, ping me in 1-1 slack channel and if I don't have topics either, we'll cancel it
+We will have recurring **one on one meetings** where I expect you to get help when you're stuck, voice problems and show your ambitions. Read more [about 1-1s here](specifics/one-on-ones.md).  
 
 ## Expectations of you
 
