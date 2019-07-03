@@ -21,6 +21,10 @@ Go over the checklist for period since last performance review and make notes.
     - Which goals were the best? Which types of the goals you will keep using? Which you will ditch?
     - Did you look at your goals frequently? If not, why so?
     - Did you feel engaged to your goals throughout the year in retrospect?
+- [ ] Go over the feedback given to you for **previous period**.
+    - What parts of feedback did you focus most? 
+    - What parts of feedback did you decided not to act on?
+    - Could any of the constructive feedback repeated for this period? Should you address some of it in the next period?
 - [ ] Please write down answers to all of the questions below
     - What is your learning strategy? Do you feel that you acquire enough new knowledge? Do you actively follow any 
     information sources? Is that enough or do you feel you sometimes lack creative ideas and approaches to problems?
