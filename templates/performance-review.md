@@ -25,10 +25,8 @@ Go over the checklist for period since last performance review and make notes.
     - What is your learning strategy? Do you feel that you acquire enough new knowledge? Do you actively follow any 
     information sources? Is that enough or do you feel you sometimes lack creative ideas and approaches to problems?
     - What has been biggest productivity booster for you during last period?
-    - What should you do to achieve same things with less time?
-    - What should your team lead do for our team to achieve same things with less time?
-    - What should you do to achieve same things with less time?
-    - What should your team lead do for our team to achieve greater results with same time?
+    - What should your team lead do for our team to achieve same results with **less time**?
+    - What should your team lead do for our team to achieve greater results with **same time**?
     - What is the new innovative thing you would like to bring into our team the next period?
 
 ## The present
@@ -42,7 +40,8 @@ Think about your role today and make notes.
 - What are the topics you could share the knowledge in form of mentoring or trainings? Which products, processes, tips & tricks, coding etc..
 - Are there any external factors that might negatively affect your performance?
 - What are the most routine tasks you have to handle?
-- What can your team lead or product owner do to help you?
+- Is there anything else that your team lead could help you with? What's the theme/topic/area you would need most help with?
+Is it time management, productivity, prioritisation, technical shortcoming or anything else?
 
 ## The future
 
