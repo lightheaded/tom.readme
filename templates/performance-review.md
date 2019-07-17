@@ -7,7 +7,7 @@ Go over the checklist for period since last performance review and make notes.
 - [ ] Go over all 1-1 notes since last review
     - What was the general mood of this period? Were you happy and performing or were there problems and struggling? 
     - Which topics came up multiple times? Write down recurring problems and let's see how we can eliminate them.
-    - What were biggest wins? Where did you make biggest impact to the company?
+    - What were biggest wins that would not have happened if you weren't here? Where did you make biggest impact to the company?
     - In which areas did you grow the most this period?
     - What has been causing most stress for you?
 - [ ] Go over all the plan items you have been responsible for  
