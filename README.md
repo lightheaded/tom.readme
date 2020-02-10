@@ -118,7 +118,7 @@ If you want to talk about something outside of work, feel free to approach me. H
 
 **My dad was an electrics engineer.** This appears to be genetic, because I am drawn to putting together drones, soldering together crazy things using microcontrollers, Raspberry Pis or car parts.
 
-**I like hiking.** My joints don't, but I still take them out on the trails at least once or twice a month. Spending time in nature brings clarity to my mind like nothing else will. I can never have enough hiking gear and every trip to a hiking specialty shop is like being a child in a candy store. 
+**I like hiking.** My joints don't, but I still take them out on the trails at least once or twice a month. Spending time in nature brings clarity to the mind like nothing else will. I can never have enough hiking gear and every trip to a hiking specialty shop is like being a child in a candy store. 
 
 **I am learning the ropes of being a captain of inland vessels.** It's a vocational education where you get to be a captain of any inlands vessel, large or small. I like learning how things work and ships seemed like a logical step after learning to drive and fly.
 
