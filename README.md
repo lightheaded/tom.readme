@@ -94,6 +94,8 @@ Very few things are more important than **talking to you if you want to discuss 
 
 **I don't bullshit.** At least I try not to. When it feels that I'm beating around the bush call me out on it. I don't like vague discussions and I prefer to be concerned with realities and actual instances rather than abstractions. That being said, strategic plans and more grand ideas need some of what might seem like a vague concept or too many diagrams.
 
+**I sometimes sound too forward or rude online**, which is not intentional. I am rarely angry or intentionally rude to someone and you know it if you've met me. Ironically, I suspect the flaw stems from the fact that I prefer overcommunication to undercommunication. Whenever I can steal a minute between meetings or other tasks, I might give feedback on something in Slack or e-mail, but as I'm likely on the run, the message might not have enough emojis or words of empathy and can come off rude and demanding ("Why has this ticket been stuck in release for 3 days?").
+
 **I can help, but only if you want me to.** Number one goal for me is to facilitate solving problems on your own by acting as a sounding board for you to figure out a path to success. If you want me to do something don't bullshit and say it out. Statements like "There should be something done about X" won't trigger me into action.
 
 **I optimise.** This is what I do. I like to break things down into smaller parts until I understand them and then I figure out how can I reap the outcome without doing the actual work. Sometimes I invest more than I gain out of automating a certain process, but more often than not I save a shedload of time.
