@@ -2,32 +2,30 @@
 
 This documentation on myself is meant to make it easier for you to understand how I work and how to best work with me.
 
-This is written from me, an engineering lead to you, a member of my team.
+This is written from me a team lead, to you, a member of my team.
 
 ## Who am I?
 
-I am VP of Software Engineering at Hepta Airborne. I am responsible for everything related to software in the company and contribute quite a bit to company-wide processes.
+I am VP of Sales at Hepta Airborne. I am responsible for many business devleopment related things, but first and foremost my purpose is to generate revenue from new sales and customer acquisition. The main method of achieving that is having a great business development team. This is why I am here. To build the greatest and best perfroming team.
 
 ## My purpose
 
 I am here to make sure that our team is successful, people are happy and we work on most important things to help our customers and colleagues achieve their goals.
-I believe in bottom-up management and my primary desire is to help you achieve your goals. Your goals will hopefully have a direct or a side effect on the the company's overall success.
+I believe in bottom-up management and my primary desire is to help you achieve your goals. Your goals will have a direct or an indirect effect on the the company's overall success.
 
 ## How does working with me look like?
 
-I believe in letting engineers do their thing. I also believe in the need to always aim to be better and constantly improve things. I expect you to learn and become better each day, month, week. I expect you to come to me if that isn't working out so I can help you brainstorm ways to acquire the hunger for learning.
+I believe in letting my team do their thing. I also believe in the need to always aim to be better and constantly improve things. I expect you to learn and become better each day, month, week. I expect you to come to me if that isn't working out so I can help you brainstorm ways to acquire the hunger for learning.
 
-One of the most important tools for an engineer is their **learning and development plan**. I would really like you to have one and I will help you make stuff that's written down there come true.
+One of the most important tools for my team members is their **learning and development plan**. I would really like you to have one and I will help you make stuff that's written down there come true.
 
 We will keep each other informed on the go and focus on "beyond-this-moment" topics in recurring face-to-face meetings. See 1-1s section below.
 
-You can ping me 24/7. I like to respond quickly and don't ever mind weighing in, be it off-hours or not. I might not respond when I'm asleep though.
-
 I like to discuss things. Don't wait until 1-1 to sync quick things or brainstorm for ideas. I will tell you if we should leave it to next 1-1.
 
-My working hours vary, but mostly I try to get in as early as possible. I'm usually more productive in the mornings and prefer to have meetings in the afternoon. 
+My working hours vary, but mostly I try to get in as early as possible. I'm usually more productive in the mornings and prefer to have meetings in the afternoon. This is why I might block out meeting-free zones in my calendar when I feel that my time is being filled up too much.
 
-Even if I might work a bit on weekends, **I do not expect that you work on weekends or off-hours**, unless it is urgent or you are on call, of course. If you feel that you **are forced or have to** work outside normal hours, let's talk and find out the reason. This should not be happening. Although if you feel like you want to contribute more, I hold no gripe against you. I want to make sure you don't burn out though.
+Even if I might work a bit on weekends, **I do not expect that you work on weekends or off-hours**, unless it is urgent or you are on-call, of course. If you feel that you **are forced or have to** work outside normal hours, let's talk and find out the reason. This should not be happening. That being said, if you want to contribute more and want to work extra and at odd hours then freel free. I want to make sure you don't burn out though.
 
 I sometimes go out of office for (half) a day to focus on one particular thing without interruption. Initially writing this README, for example. I am off the grid during that time.
 
@@ -39,24 +37,24 @@ We will have recurring **one on one meetings** where I expect you to get help wh
 
 I am not good at your job. You are very good at your job.
 
-My peace-time leadership philosophy involves a lot of freedom for you. This implies more responsibility on your shoulders. The primary areas of focus for me are: people development, team building, vision and strategy, our team's way of work (portfolio, processes) – in that order.
+My peace-time leadership philosophy involves a lot of freedom for you. This implies more responsibility on your shoulders. The primary areas of focus for me are: people development, team building, vision and strategy, our team's way of work (portfolio, processes etc.) – in that order.
 
-I believe that technical shortcomings are best seen and felt by the people who work with them day-to-day. So if you feel that something is not right and should be done differently, I am happy to help any way I can, but I will not take it on myself to fix it because it's not the focal point of my job. It's yours.
+I believe that technical shortcomings are best seen and felt by the people who work with them day-to-day. So if you feel that something is not right and should be done differently, I am happy to help any way I can. But I expect you to bring up issues if there are any.
 
-So I will resort to guidance, sound boarding and often pitching in with the ideas, but rarely take the task away from you. The "war time" – when things are misbehaving, something is burning or fundamentally broken and our customers are losing money – does not fall under this philosophy.
+So I will resort to guidance, sound boarding and often pitching in with the ideas, but rarely take the task away from you. The "war time" – when things are misbehaving, something is burning or fundamentally broken and our customers are losing money or we are losing customers – does not fall under this philosophy.
 
-### What should an engineer do?
+### What should you do?
 
 - Do keep your promises and our agreements. I expect that you will let me know if you won't be able to fulfil a promise. Silently failing a deadline won't do.
-- Do spend most of your time coding and developing as opposed to dealing with work that does not provide value.
+- Do spend most of your time fulfilling your core purpose (selling, coding, analysing etc.) as opposed to dealing with work that does not provide value.
 - Do spend time on personal growth, learning, experimenting; but also on technical project managemnt, analysing future endeavours, propose things that could be better.
-- Do speak your mind freely with me – daily struggles, compensation, stress, technical issues, emotions, personal growth, ranting, venting. Everything is fine.
+- Do speak your mind freely with me – daily struggles, compensation, stress, technical issues, emotions, personal growth, ranting, venting, mental issues. I try to keep my topics-that-are-taboo list empty.
 - Do discuss with me if you feel that somebody needs help, does not perform well. Don't keep your thoughts to yourself. I won't use that information to fire a person, but I will know how to approach his/her personal development a lot better.
 - Do speak your mind about things that should be changed. Expect me to ask what can be done about the issue. 
 - Do come out with a bare-bones idea of a solution if you come to me with a problem. Or clearly express that you do not know how to proceed with it.
-- Do speak your mind and be vocal in your opinions.
+- Do speak your mind and be vocal in your opinions. Constructively.
 
-### What should engineer not do?
+### What should you not do?
 
 - Don't expect me to [take your monkey](https://hbr.org/1999/11/management-time-whos-got-the-monkey). I am more than willing to help out, help you find resource, priority, ideas. At the same time I strongly believe that the decisions should be bottom-up, so you as the expert to initiate change.
 
@@ -64,11 +62,11 @@ So I will resort to guidance, sound boarding and often pitching in with the idea
 
 It is my job to make our team better than yesterday, every day.
 
-That can only be achieved if I focus a huge chunk of my attention to help people grow. I will try to poke you into action regarding L&D each 1-1. I will offer you new opportunities to do something that you haven't done before. I will ask you questions that you don't know how to answer. This will happen every step of the way.
+That can only be achieved if I focus a huge chunk of my attention to help people grow. I will try to poke you into action regarding L&D at our 1-1s. I will offer you new opportunities to do something that you haven't done before. I will ask you questions that you don't know how to answer. This will happen every step of the way.
 
-Twice a year following the formal feedback cycle we talk about tangible ways you want to develop yourself. After you have advanced from your onboarding I will ask you to think about where you want to focus your attention in terms of learning and development. Once a year you will also hear feedback gathered from your peers. During the performance review we discuss your ambitions, feedback given to you and how I see your development in the context of our team and company. After the review you will write down your goals that reflect your ambitions for the next period. 
+Twice a year (or following the formal feedback cycle) we talk about tangible ways you want to develop yourself. After you have advanced from your onboarding I will ask you to think about where you want to focus your attention in terms of learning and development. Once a year you will also hear feedback gathered from your peers. During the performance review we discuss your ambitions, feedback given to you and how I see your development in the context of our team and company. After the review you will write down your goals that reflect your ambitions for the next period. 
 
-The goal-setting does not stop here. Once a month  we discuss your progress, relevance of the set OKRs and adjust them if necessary. 
+The goal-setting does not stop here. Once a month we will discuss your progress, relevance of the set OKRs and adjust them if necessary. 
 
 ## Feedback
 
@@ -114,7 +112,7 @@ If you want to talk about something outside of work, feel free to approach me. H
 
 **I like experimenting in the kitchen.** Cooking my own delishes is a great way to let the brain rest. And there's a nice reward in the end.
 
-**I am a helicopter pilot** by formal education. I have a Commercial Pilot's License and occasionally fly. I don't own a helicopter but if you'd like a flight, I can rent one and we can take it for a spin. It costs around €100 per 10 minutes to rent a Robinson 22. I also am in progress of getting a glider pilot's license.
+**I am a helicopter pilot** by formal education. I have a Commercial Pilot's License and occasionally fly. I don't own a helicopter but if you'd like a flight, I can rent one and we can take it for a spin. It costs around €100 per 10 minutes to rent a Robinson 22. 
 
 **I code for fun.** Outside of my main job I occasionally accept an interesting freelance project. I also try to make my life easier by writing tools for my own use (and hopefully some day open source).
 
